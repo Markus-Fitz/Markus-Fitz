@@ -67,6 +67,32 @@ li {
     flex: 1;
 }
 
+/* Project section */
+.project {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 4rem;
+}
+
+.project img {
+    width: 200px;
+    height: auto;
+    border-radius: 4px;
+}
+
+.project-content {
+    flex: 1;
+}
+
+.project h2 {
+    margin-bottom: 0.5rem;
+}
+
+.project p {
+    margin-bottom: 1rem;
+}
+
 /* Footer */
 footer {
     margin-top: 4rem;
