@@ -49,6 +49,24 @@ li {
     margin-bottom: 0.5rem;
 }
 
+/* Hero section */
+.hero {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 5rem;
+}
+
+.hero img {
+    width: 250px;
+    height: auto;
+    border-radius: 6px;
+}
+
+.hero-text {
+    flex: 1;
+}
+
 /* Footer */
 footer {
     margin-top: 4rem;
